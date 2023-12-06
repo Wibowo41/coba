@@ -1,0 +1,5 @@
+repo: 7c9aa1e1e2089ce593c073c0a33a64bdd7415dfa
+node: 7f34760305afdae7fc2aebc9dec8f0dd9bfd6458
+branch: development
+latesttag: 1.2.2
+latesttagdistance: 2
